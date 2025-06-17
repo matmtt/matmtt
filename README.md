@@ -4,6 +4,8 @@ Some of my stuff:
 
 📚 https://study-grid-matrix.vercel.app/ - A Visual Study Tracker
 
+🎯 https://habit-io.vercel.app/ - Habit Tracker in the same fashion as the study grid matrix
+
 <!--
 **matmtt/matmtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
